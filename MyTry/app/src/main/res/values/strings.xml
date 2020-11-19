@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smarder</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_About">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">SmarDer merupakan sebuah aplikasi yang memiliki fitur reminder (pengingat),
+    yang dapat membantu kalian untuk memanajemen waktu menjadi lebih baik lagi.</string>
+    <string name="identitas">Aplikasi ini dibuat oleh Yuan, Lita dan Rena. Teamwork asik ya!</string>
+    <string name="harapan">Semoga aplikasi ini dapat berguna kedepannya, dan bisa dibuat menjadi lebih baik lagi. Doakan kami ya hehe</string>
+</resources>
